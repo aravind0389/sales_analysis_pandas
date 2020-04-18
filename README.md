@@ -1,6 +1,14 @@
 # sales_analysis_pandas
 Sales Analysis based on Pandas and Matplotlib
 
-1) Sales By Month <br />
+#### Sales By Month
 ![](images/sales_month.png)
-<br />
+
+#### Sales By City
+![](images/salest_city.png)
+
+#### Most Sold Products
+![](images/sales_most_sold_products.png)
+
+#### Most Sold Products and Its Prices
+![](images/sales_most_sold_products.png)
