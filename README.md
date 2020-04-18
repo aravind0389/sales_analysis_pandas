@@ -11,4 +11,4 @@ Sales Analysis based on Pandas and Matplotlib
 ![](images/sales_most_sold_products.png)
 
 #### Most Sold Products and Its Prices
-![](images/sales_most_sold_products.png)
+![](images/sales_products_price.png)
